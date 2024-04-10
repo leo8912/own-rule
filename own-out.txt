@@ -1,4 +1,4 @@
 payload:
-- '+.fsm.name'
-- '+.hdatmos.club'
-- '+.djjc.cfd'
+  - '+.fsm.name'
+  - '+.hdatmos.club'
+  - '+.djjc.cfd'
