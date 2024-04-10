@@ -2,3 +2,4 @@ payload:
   - '+.fsm.name'
   - '+.hdatmos.club'
   - '+.djjc.cfd'
+  - '+.hdarea.club'
