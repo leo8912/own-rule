@@ -1,1 +1,3 @@
-
+payload:
+- '+.fsm.name'
+- '+.hdatmos.club'
