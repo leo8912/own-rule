@@ -4,7 +4,6 @@ payload:
   - '+.hdfans.org'
   - '+.btschool.club'
   - '+.hdtime.org'
-  - '+.hdarea.club'
   - '+.audiences.me'
   - '+.soulvoice.club'
   - '+.hares.top'
