@@ -3,3 +3,4 @@ payload:
   - '+.hdatmos.club'
   - '+.djjc.cfd'
   - '+.hdarea.club'
+  - 'v2rayssr'
