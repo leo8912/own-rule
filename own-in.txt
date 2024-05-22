@@ -25,3 +25,4 @@ payload:
   - '+.dzfd.top'
   - '+.zmk.pw'
   - '+.a4k.net'
+  - '+.flashcorpa.top'
