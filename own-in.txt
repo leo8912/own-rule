@@ -26,4 +26,3 @@ payload:
   - '+.zmk.pw'
   - '+.a4k.net'
   - '+.flashcorpa.top'
-  - 'v2rayssr'
