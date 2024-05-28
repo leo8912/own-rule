@@ -36,3 +36,4 @@ payload:
   - DOMAIN-KEYWORD,flashcorpa
   - DOMAIN-KEYWORD,microsoft
   - IP-CIDR,150.158.109.131
+  - DOMAIN-KEYWORD,akamaized
