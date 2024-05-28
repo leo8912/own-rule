@@ -37,3 +37,5 @@ payload:
   - DOMAIN-KEYWORD,microsoft
   - IP-CIDR,150.158.109.131
   - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-SUFFIX,xiaoyi.vc
+  - DOMAIN-SUFFIX,docker.io
