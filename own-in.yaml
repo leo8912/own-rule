@@ -39,3 +39,4 @@ payload:
   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,xiaoyi.vc
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,steamcontent.com
