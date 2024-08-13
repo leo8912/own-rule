@@ -42,3 +42,4 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,panxi.eu.org
+  - DOMAIN-KEYWORD,steam
