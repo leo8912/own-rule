@@ -38,7 +38,6 @@ payload:
   - IP-CIDR,150.158.109.131
   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,xiaoyi.vc
-  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,panxi.eu.org
