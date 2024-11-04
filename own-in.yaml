@@ -43,3 +43,4 @@ payload:
   - DOMAIN-SUFFIX,panxi.eu.org
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,yingdev
+  - IP-CIDR,100.125.205.94
