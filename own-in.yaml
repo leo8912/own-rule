@@ -45,4 +45,4 @@ payload:
   - DOMAIN-KEYWORD,yingdev
   - IP-CIDR,100.125.205.94
   - PROCESS-NAME,tailscaled
-  - DOMAIN-KEYWORD,gamesky
+  - DOMAIN-KEYWORD,gamersky
