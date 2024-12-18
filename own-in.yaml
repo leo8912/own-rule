@@ -47,3 +47,5 @@ payload:
   - PROCESS-NAME,tailscaled
   - DOMAIN-KEYWORD,gamersky
   - PROCESS-NAME,DesktopStockTracking.exe
+  - DOMAIN-KEYWORD,zystime
+  - IP-CIDR,150.158.109.131
