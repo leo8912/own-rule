@@ -7,7 +7,7 @@
   # - GEOIP,CN
   # - DST-PORT,80
   # - SRC-PORT,7777
-  # # MATCH ÔÚÕâÀï²¢²»ÊÇ±ØĞëµÄ
+  # # MATCH ï¿½ï¿½ï¿½ï¿½ï¿½ï²¢ï¿½ï¿½ï¿½Ç±ï¿½ï¿½ï¿½ï¿½
 payload:
   - DOMAIN-KEYWORD,fsm
   - DOMAIN-KEYWORD,hdatmos
@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-KEYWORD,dfranklincreation
   - DOMAIN-KEYWORD,hhanclub
+  - DOMAIN-SUFFIX,hhan.club  # æ·»åŠ å®Œæ•´åŸŸåè§„åˆ™
