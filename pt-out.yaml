@@ -10,3 +10,4 @@
   # # MATCH 在这里并不是必须的
 payload:
   - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,hhan.club
