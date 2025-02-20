@@ -22,3 +22,4 @@ payload:
   - DOMAIN-KEYWORD,dfranklincreation
   - DOMAIN-KEYWORD,hhanclub
   - DOMAIN-SUFFIX,hhan.club  # 添加完整域名规则
+  - DOMAIN-SUFFIX,hhanclub.top
