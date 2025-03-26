@@ -50,3 +50,4 @@ payload:
   - DOMAIN-KEYWORD,tailscale
   - IP-CIDR,150.158.109.131
   - DOMAIN-KEYWORD,feishu
+  - DOMAIN-KEYWORD,okaapps
