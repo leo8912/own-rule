@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,hhanclub.top
   - DOMAIN-SUFFIX,hhan.club
   - DOMAIN-SUFFIX,www.agsvpt.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,google.dev
+  - DOMAIN-SUFFIX,aistudio.google.com
